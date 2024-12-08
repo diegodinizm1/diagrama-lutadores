@@ -41,3 +41,4 @@ Destruidor d2 = new Destruidor("Alicio", "Feroz", 70, 40, 30, 15);
 Ringue ringue = new Ringue(d1, d2);
 System.out.println(ringue.lutar());
 ---------------------------------------------------------------------------------------
+*/
